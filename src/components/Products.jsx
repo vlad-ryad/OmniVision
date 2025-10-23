@@ -36,12 +36,12 @@ const Products = () => {
                            
                             <div>
                                 <div className='flex items-center gap-8 flex-wrap'>
-                                    <img src="/src/assets/company1.png" alt="" className='cursor-pointer' />
-                                    <img src="/src/assets/company2.png" alt="" className='cursor-pointer' />
-                                    <img src="/src/assets/company3.png" alt="" className='cursor-pointer' />
-                                    <img src="/src/assets/company4.png" alt="" className='cursor-pointer' />
-                                    <img src="/src/assets/company5.png" alt="" className='cursor-pointer' />
-                                    <img src="/src/assets/company6.png" alt="" className='cursor-pointer' />
+                                    <img src="/dist/images/company1.png" alt="" className='cursor-pointer' />
+                                    <img src="/dist/images/company2.png" alt="" className='cursor-pointer' />
+                                    <img src="/dist/images/company3.png" alt="" className='cursor-pointer' />
+                                    <img src="/dist/images/company4.png" alt="" className='cursor-pointer' />
+                                    <img src="/dist/images/company5.png" alt="" className='cursor-pointer' />
+                                    <img src="/dist/images/company6.png" alt="" className='cursor-pointer' />
                                 </div>
                                 <div className='flex items-center gap-8 mt-4'>
                                     <a href="/" className='font-bold text-brandPrimary hover:text-neutral-700'>Подробнее 
