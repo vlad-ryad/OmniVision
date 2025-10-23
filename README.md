@@ -13,6 +13,11 @@
 - **🎨 Современный дизайн** - Чистый и привлекательный интерфейс
 - **🌈 Tailwind CSS** - Гибкая и удобная система стилей
 
+## 🌐 Демо
+
+Проект размещен на GitHub Pages и доступен по ссылке:
+### [https://vlad-ryad.github.io/OmniVision/](https://vlad-ryad.github.io/OmniVision/)
+
 ## 🛠 Технологии
 
 - React JS
