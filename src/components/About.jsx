@@ -28,7 +28,7 @@ const About = () => {
                         Помогаем вашему бизнесу  <span className='text-brandPrimary'> расти и развиваться</span></h2>
                         <p className='md:w-3/4 text-lg text-neutralGrey mb-8'>Мы достигаем этого благодаря нашей омниканальной маркетинговой платформе, упорному труду и преданности делу.</p>
                     </div>
-                    {/* Статистика */}
+
                     <div className='md:w-1/2 mx-auto flex sm:flex-row flex-col sm:items-center justify-around gap-12'>
                         <div className='space-y-8'>
                             <div className='flex items-center gap-4'>
