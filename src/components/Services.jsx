@@ -25,7 +25,7 @@ const Services = () => {
                     <img src="/src/assets/company6.png" alt="" />
                 </div>
 
-                {/* информация сервиса*/}
+                {/* Информация сервиса*/}
                 <div className='mt-20 md:w-1/2 mx-auto text-center'>
                     <h2 className='text-4xl text-neutralDGrey font-semibold mb-3'>Управляйте всеми маркетинговыми каналами с помощью единой платформы</h2>
                     <p className='text-neutralGrey'> Кому подходит наша омниканальная маркетинговая платформа?</p>
